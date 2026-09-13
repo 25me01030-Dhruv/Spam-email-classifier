@@ -6,8 +6,8 @@ Several machine learning models were evaluated for the spam classification task.
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |---|---:|---:|---:|---:|
-| Model 1 | XX.XX% | XX.XX% | XX.XX% | XX.XX% |
-| Model 2 | XX.XX% | XX.XX% | XX.XX% | XX.XX% |
+| Binomial Naive Bayse | XX.XX% | XX.XX% | XX.XX% | XX.XX% |
+|  | XX.XX% | XX.XX% | XX.XX% | XX.XX% |
 | **Best Model** | **XX.XX%** | **XX.XX%** | **XX.XX%** | **XX.XX%** |
 
 ### 🏆 Best Performing Model
