@@ -2,14 +2,16 @@
 
 ## 📊 Model Performance
 
-Three Naive Bayes classifiers were evaluated for the spam classification task. **Bernoulli Naive Bayes achieved the best performance with an accuracy of 98.25% and precision of 100%.**
+Several machine learning models were evaluated for the spam classification task.
 
 | Model | Accuracy | Precision |
-|:---|---:|---:|
+|---|---:|---:|
 | Multinomial Naive Bayes | 96.71% | 100% |
 | Gaussian Naive Bayes | 87.62% | 52.31% |
 | **Bernoulli Naive Bayes** | **98.25%** | **100%** |
 
-### 🏆 Best Model
+### 🏆 Best Performing Model
 
-**Bernoulli Naive Bayes** was selected as the final model due to its highest accuracy of **98.25%**, while maintaining **100% precision**.
+The **Bernoulli Naive Bayes** algorithm achieved the highest classification accuracy of **98.25%** with a **TF-IDF Vectorizer**, while maintaining **100% precision**.
+
+The trained model was serialized and integrated with the **Streamlit** application for real-time spam classification.
